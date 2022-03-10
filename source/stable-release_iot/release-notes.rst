@@ -569,7 +569,7 @@ Celadon IoT build running in GVT-d mode has been validated on Intel TGL/EHL/CML 
     :width: 750px
 
 .. note::
-        CTS on GSI Failures are due to Google dependency and shall be resolved in Upcoming new GSI patch
+        CTS on GSI Failures are due to Google dependency and shall be resolved in 11_r8 CTS test suite
 
 
 Acronyms and terms
